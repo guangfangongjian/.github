@@ -1,9 +1,9 @@
-# 光帆生态社区
+# 光帆共建
 
 我们是 [光帆科技](https://guangfan.com/) 的核心用户Github组织，旨在联动光帆官方、核心用户及开源社区力量，共建光帆生态。
 
 ## 组织成员
-- [光帆共建](https://github.com/guangfangongjian) - 组织维护者
+- [光帆共建](https://github.com/guangfangongjian) 
 - [陪伴](https://github.com/peiban666)
 - [山河尽赠佳人 / 奈何](https://github.com/naiheSH)
 
